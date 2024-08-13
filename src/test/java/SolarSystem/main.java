@@ -16,6 +16,13 @@ public class main {
 
 
 
+//*****Planet2*********
+        Planet2 xaros=new Planet2();
+        xaros.name="nenio";
+        xaros.color="blue";
+        xaros.size="03211464";
+
+
 
     }
 }
