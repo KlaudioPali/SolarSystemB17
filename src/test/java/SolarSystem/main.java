@@ -14,6 +14,15 @@ public class main {
         Sun.color="black";
         Sun.temp="122145kelvin";
 
+        //Planet1
+        Planet1 plato=new Planet1();
+        plato.color="green";
+        plato.name="abracadbra";
+        plato.temp="100000000k";
+        plato.radius="8000000";
+        
+
+
 
 
 //*****Planet2*********
